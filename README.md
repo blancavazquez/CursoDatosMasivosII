@@ -39,9 +39,9 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Propiedades de vecindades
   
  ## Horario
+- Lunes 11:30am a 13:00 pm (teoría)
 - Martes 8:30am a 10:00am (teoría)
 - Miércoles 13:00pm a 15:00pm (práctica)
-- Jueves 7:30am a 9:00am (teoría)
 
 ## Lugar
 - Zoom y Google Classroom
