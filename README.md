@@ -47,10 +47,10 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 - Zoom y Google Classroom
 
 ## Criterios de evaluación
-**4 exámenes parciales escritos (50%)**
-
-  
- **4 evaluaciones prácticas (50%)**
+**Tareas (30%)**
+**Exámenes (20%)**
+**Proyectos (40%)**
+**Participación (20%)**
 
 ## Profesores
 **Blanca Hilda Vázquez Gómez**
