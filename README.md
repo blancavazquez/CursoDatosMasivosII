@@ -37,7 +37,13 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Similitud entre nodos
   - Conteo de triángulos
   - Propiedades de vecindades
-  
+ 
+ ## Bibliografía
+ - Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman. Mining of Massive Datasets. Second Edition. Cambridge University Press, 2014. [Liga](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
+ - Charu C. Aggarwal. Data Mining. Springer International Publishing, 2015.[Liga](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+ - Charu C. Aggarwal. Recommender Systems. Springer International Publishing, 2016.[Liga](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
+ - David Easley and Jon Kleinberg. Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press, 2010. [Liga](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+ 
  ## Horario
 - Lunes 11:30am a 13:00 pm (teoría)
 - Martes 8:30am a 10:00am (teoría)
