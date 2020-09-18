@@ -48,8 +48,14 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Criterios de evaluación
 **Tareas (30%)**
+
+
 **Exámenes (20%)**
+
+
 **Proyectos (40%)**
+
+
 **Participación (20%)**
 
 ## Profesores
