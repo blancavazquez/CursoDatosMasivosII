@@ -62,7 +62,7 @@ Exámenes (20%)
 Proyectos (40%)
 
 
-Participación (20%)
+Participación (10%)
 
 ## Profesores
 **Blanca Hilda Vázquez Gómez**
