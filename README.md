@@ -45,9 +45,9 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
  - David Easley and Jon Kleinberg. Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press, 2010. [Liga](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
  
  ## Horario
-- Lunes 11:30 am a 13:00 pm (teoría)
-- Martes 8:30 am a 10:00 am (teoría)
-- Miércoles 13:00 pm a 15:00 pm (práctica)
+- Lunes 13:00 pm a 14:30 pm (teoría)
+- Martes 10:00 am a 11:30 am (teoría)
+- Miércoles 12:00 pm a 14:00 pm (práctica)
 
 ## Lugar
 - Zoom y Google Classroom
